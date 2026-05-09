@@ -1,0 +1,15 @@
+## Topics Covered
+- AI-assisted software development
+- Mobile app development (Ionic, Capacitor, Cordova)
+- CSS frameworks (Tailwind, responsiveness)
+- Angular framework (architecture, state management)
+- React framework (state management)
+- API integration and error handling
+- Performance optimization (mobile, large datasets)
+- UI component design and reusability
+
+## Candidate Profile
+Role: Senior Frontend Engineer / Mobile Lead Engineer
+
+Justification:
+The candidate has 9+ years of experience and demonstrated expertise across multiple frontend frameworks (Angular, React, Ionic) and mobile development. The questions posed were complex, requiring architectural and design-level thinking, which the candidate largely addressed with senior-level insights.

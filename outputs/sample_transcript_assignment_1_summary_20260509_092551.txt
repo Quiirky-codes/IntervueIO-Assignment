@@ -1,0 +1,18 @@
+## Topics Covered
+*   **AI-assisted Software Development**: Practical application of AI coding assistants (e.g., Cursor, GitHub Copilot, Claude) throughout the development lifecycle, including requirement understanding, architecture, component generation, API integration, and state management.
+*   **Mobile App Development (Ionic & Capacitor)**: UI structuring, responsiveness, and performance optimization for mobile-first dashboards using Ionic v7. Usage of Capacitor and its plugin ecosystem for native functionalities like camera and file system, including local storage and backend synchronization.
+*   **Frontend Frameworks (Angular & React)**:
+    *   **Angular**: Designing scalable application structures for large enterprise dashboards, modular architecture, shared components, data flow, and state management (RxJS, NgRx).
+    *   **React**: State management strategies for large-scale applications, including global, server, and local UI states, using Context API, React Query, and conceptual understanding of Redux Toolkit.
+*   **CSS Frameworks (Tailwind CSS)**: Structuring styling approaches for scalability using utility classes, responsive design with breakpoints, and reusable UI components.
+*   **Performance Optimization**: Techniques for large datasets and mobile applications, including virtual scroll, pagination, lazy loading, bundle size reduction, image optimization, and debouncing.
+*   **Application Architecture**: Principles like modularity, separation of concerns, reusable components, service layers, and centralized error handling.
+*   **Backend Technologies**: Mention of Node.js, Express, and .NET Core as technologies the candidate works with, though not explicitly questioned on.
+
+## Candidate Profile
+*   **Likely role**: Senior Full-stack Developer (with a strong Frontend/Mobile bias)
+*   **Estimated seniority**: Senior
+*   **Short justification**: The candidate has "nine plus years of experience" and demonstrates a comprehensive understanding of modern frontend (Angular, React) and hybrid mobile (Ionic, Capacitor) frameworks. They can discuss architectural patterns, scalability, performance optimization, and state management strategies for complex applications, aligning with senior-level expectations. Their experience with backend technologies and practical application of AI coding assistants further supports this assessment.
+
+## Candidate Summary
+*   **Background**: Prasanna Kumar has over nine years of experience in software development. His core technical expertise lies in Angular, React, and Ionic framework, with experience in backend development using Node.js, Express, and .NET Core. He has worked on service-based applications,

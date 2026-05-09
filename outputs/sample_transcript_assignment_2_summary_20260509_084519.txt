@@ -1,0 +1,1 @@
+Transcript is too short or empty for meaningful analysis.

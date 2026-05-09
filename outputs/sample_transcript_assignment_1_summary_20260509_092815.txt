@@ -1,0 +1,19 @@
+## Topics Covered
+- AI-assisted software development
+- Mobile app development (Ionic Framework, Capacitor)
+- CSS frameworks (Tailwind CSS)
+- Angular Framework (architecture, state management)
+- React Framework (state management)
+- Communication and articulation
+- Plugin ecosystem (Capacitor)
+- Responsiveness and performance optimization
+- Large dataset handling
+
+## Candidate Profile
+Role: Senior Frontend Developer with Mobile Expertise
+
+Justification:
+The candidate has 9+ years of experience with a strong focus on Angular, React, and Ionic frameworks, along with backend technologies like Node.js and .NET Core. The discussions revolved around architectural design, scalability, performance, and advanced state management, which are typical expectations for a senior-level role.
+
+## Candidate Summary
+Prasanna Kumar is a seasoned software developer with over nine years of experience, specializing in frontend technologies like Angular, React, and Ionic, complemented by backend skills in Node.js and .NET Core. He demonstrates a strong understanding of architectural principles, scalability, and performance optimization in both web and mobile contexts, including practical application of AI coding assistants. While he articulates complex concepts clearly and provides well-structured approaches to design problems, there was a noted hesitation and inability to provide a complete code snippet for Zustand, and the Redux slice coding exercise was cut short, suggesting a potential gap in immediate recall or hands-on implementation for certain specific state management libraries, despite conceptual familiarity. Overall, he presents as a capable and experienced developer with a solid technical foundation.

@@ -193,6 +193,14 @@ Basic preprocessing improved:
 
 ---
 
+## Reflection
+
+One thing that genuinely surprised me during this assignment was how sensitive the model was to small changes in the prompt. Even slight wording differences changed the tone, confidence level, and structure of the output quite a bit. In the earlier versions, the model tended to overestimate candidates and produce summaries that sounded too polished or generic. Adding grounding instructions such as “only use explicitly stated information” significantly reduced hallucinations and made the summaries feel more realistic and recruiter-friendly.
+
+I also experimented with chunk-based summarization for longer transcripts because I initially thought larger transcripts would exceed context limitations. While it helped with scalability, I noticed that over-compressing transcripts sometimes removed important context and weakened the final evaluation quality. In the final version, I focused more on preserving transcript structure and improving prompt clarity instead of making the pipeline overly complex.
+
+If I had another day, I would improve support for very long interviews using speaker-aware chunking and better context merging. I would also add confidence scoring for profile inference and improve export options like PDF or DOCX reports.
+
 # Limitations
 
 - The quality of summaries depends heavily on transcript clarity.
